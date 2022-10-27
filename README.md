@@ -6,7 +6,7 @@ In this project I want to take a look at how all the factors in our loan_stats c
 
 ## Results: 
 
-- Naive Random Oversampling results: Our balanced accuracy test it 64%, the precision for the high_risk has a very low positivity at 1% and the recall is 64%
+- Naive Random Oversampling results: Our balanced accuracy test it 64.6%, the precision for the high_risk has a very low positivity at 1% and the recall is 65%
 
 ![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/oversample.png)
 
