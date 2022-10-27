@@ -8,28 +8,28 @@ In this project I want to take a look at how all the factors in our loan_stats c
 
 - Naive Random Oversampling results: Our balanced accuracy test it 64%, the precision for the high_risk has a very low positivity at 1% and the recall is 64%
 
-![Images]()
+![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/oversample.png)
 
 
 - SMOTE oversampling results: the accuracy score is 64.6%, the precision for the high_risk loans has a low positvity at 1% and recall is 63% overall
 
-![Images]()
+![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/SMOTE.png)
 
 
 - Undersampling results: balanced accuracy score is 51.5% overall, the precision is at 99% and the recall is 44%
 
-![Images]()
+![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/undersampling.png)
 
 - Combination(over and undersampling) results: balanced accuracy score is 61.4% the precision is 99% and the recall is 55% overall
 
-![Images]()
+![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/combo.png)
 
 - Balanced Random Forest Classifier results: the accuracy score is 78.9% the precision is 99% and the recall is 91%
 - 
-![Images]()
+![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/balanced.png)
 
 - Easy Ensemble AdaBoost Classifier results: the accuracy score is 92.5% the precision is 99% and the recall is 94%
-![Images]()
+![Images](https://github.com/DannyJohnson-Hi/Credit_Risk_Analysis/blob/main/images/ensemble.png)
 
 ## Summary: 
 
